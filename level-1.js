@@ -63,8 +63,8 @@ function whatIDontLike(losing) {
 whatIDontLike("racism");
     
 // QUESTION 9
-function subtractTwoNumbers(number1, number2) {
-    var sum = number2 - number1;
+function subtractTwoNumbers(firstNumber, secondNumber) {
+    var sum = secondNumber - firstNumber;
     console.log(sum);
 }
 subtractTwoNumbers(19, 10);
